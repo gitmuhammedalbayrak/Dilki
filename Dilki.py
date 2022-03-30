@@ -1,13 +1,3 @@
-
-"""
-NOTLAR:
-    Bos sutunlarimi doldurmam lazim.
-
-    Program inanilmaz sekilde hantal belki de bozuk
-"""
-
-
-
 import sqlite3
 
 #----------------------------------------------------------------------------------------------------------------------
